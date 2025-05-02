@@ -1,6 +1,6 @@
 #  Mutual Fund Performance Analysis (EDA Project)
 
-This project focuses on an in-depth Exploratory Data Analysis (EDA) of mutual fund schemes to evaluate their performance using Python and visualization libraries.
+I focused on an in-depth Exploratory Data Analysis (EDA) of mutual fund schemes to evaluate their performance using Python and visualization libraries.
 
 ##  Project Overview
 In this analysis, I worked on a dataset of 814 mutual fund schemes, performing the following key tasks:
@@ -35,7 +35,7 @@ In this analysis, I worked on a dataset of 814 mutual fund schemes, performing t
 6. Which **fund categories or sub-categories** carry the highest administrative cost?
 7. Do **low-rated funds** have higher expense ratios?
 
-### ⚖ Risk, Volatility & Ratings
+### Risk, Volatility & Ratings
 8. Which risk levels are most common among top-performing funds?
 9. How do **Sharpe**, **Beta**, **Sortino**, and **SD** vary across categories?
 10. Are **0-rated funds** really underperformers, or are they just new?
